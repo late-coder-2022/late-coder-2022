@@ -15,12 +15,12 @@ Although I have been working for quite sometime, I haven't done any coding almos
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently studying on a Software Engineering Bootcamp from HyperionDev.
+- 🔭 I’m currently studying a Software Engineering Bootcamp from HyperionDev.
 - 🌱 I’m currently learning Python, alogorithms, OOP, Wed development.
 - 👯 I’m looking to dive deeper into what I have learnt from the bootcamp.
-- 🤔 I’m looking for help with my code by sharing your thought so that I can improve my skill.
+- 🤔 I’m looking for help to sharing your thought on my work so that I can improve my skill.
 - 💬 Ask me about Python, HTML, CSS and Bootstrap.
 - 📫 How to reach me: You may reach me through LinkedIn or GitHub
 - 😄 Pronouns: hmm...haha
-- ⚡ Fun fact: If you are not doing ok now, do more. If you are already very good, you should continue to go further. Just don't stop.
+- ⚡ Fun fact: If you are not doing ok, try more. If you are already very good, you shouldn't stop doing.
 
